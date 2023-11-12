@@ -25,7 +25,7 @@ Welcome to my Image gallery website project! This site is a showcase of my skill
 
 ## How to Use
 
-Simply navigate to [] to explore my work and learn more about me.
+Simply navigate to [https://vishvesprabakar.github.io/error-makes-clever-image-gallery/] to explore my work and learn more about me.
 
 ## Contributing
 
